@@ -10,6 +10,7 @@
 #include<QtCore/QStringList>  //提供字符串列表，提供基于索引的快速访问和快速删除
 #include<QtCore/QPropertyAnimation>  //动画
 
+
 using namespace QtDataVisualization;
 class GraphModifier: public QObject
 {
